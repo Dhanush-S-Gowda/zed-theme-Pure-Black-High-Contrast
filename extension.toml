@@ -1,0 +1,7 @@
+id = "Pure-Black-High-Contrast"
+name = "Pure Black High Contrast"
+version = "0.0.1"
+schema_version = 1
+authors = ["Dhanush S Gowda"]
+description = "Pure black OLED-friendly high contrast theme for Zed with bright syntax colors and minimal dark UI"
+repository = "https://github.com/Dhanush-S-Gowda/zed-theme-Pure-Black-High-Contrast"
