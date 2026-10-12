@@ -8,7 +8,6 @@ It uses a true black (`#000000`) background and bright text for clear reading.
 ## Extension
 
 - Zed extension page: https://zed.dev/extensions/pure-black-high-contrast-theme
-- Repository: https://github.com/Dhanush-S-Gowda/zed-theme-Pure-Black-High-Contrast
 
 ## Install
 
@@ -41,8 +40,14 @@ It uses a true black (`#000000`) background and bright text for clear reading.
 
 - True black editor background (`#000000`)
 - High-contrast foreground text
-- Clear active line and selection states
-- Readable syntax colors
+- Clear active line and selection states (`#FFFFFF1A` active line, `#FFFFFF33` selection)
+- Readable syntax colors:
+  - Keywords use purple (`#D78BFF`)
+  - Functions use blue (`#60A5FA`)
+  - Types and operators use cyan (`#67E8F9`)
+  - Strings use green (`#8FE388`)
+  - Numbers and constants use yellow (`#FFD166`)
+  - Properties and parameters use soft red (`#FF6B6B`)
 - OLED-friendly UI
 
 ## Compatibility
